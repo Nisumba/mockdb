@@ -1,0 +1,174 @@
+{
+	"results": [{
+		"gender": "female",
+		"name": {
+			"title": "Mrs",
+			"first": "Imelda",
+			"last": "Holtkamp"
+		},
+		"location": {
+			"street": {
+				"number": 8172,
+				"name": "Kapellenweg"
+			},
+			"city": "Germersheim",
+			"state": "Thüringen",
+			"country": "Germany",
+			"postcode": 25054,
+			"coordinates": {
+				"latitude": "-46.4562",
+				"longitude": "68.1306"
+			},
+			"timezone": {
+				"offset": "+5:45",
+				"description": "Kathmandu"
+			}
+		},
+		"email": "imelda.holtkamp@example.com",
+		"login": {
+			"uuid": "75acd74f-2e64-4ac5-9c8f-292f89e78197",
+			"username": "whitedog606",
+			"password": "leather",
+			"salt": "4zrPYxeX",
+			"md5": "196ca35d5f5930686cdb6061df38f585",
+			"sha1": "ed08b7c74bebcf80f3472621b33ed331e450d091",
+			"sha256": "99bf3757d9c8b236a39e43a51e6f0064cdcb0e0fc307aee6eb4c14adab0f7828"
+		},
+		"dob": {
+			"date": "1951-08-12T07:44:56.251Z",
+			"age": 70
+		},
+		"registered": {
+			"date": "2019-05-09T14:06:30.396Z",
+			"age": 2
+		},
+		"phone": "0684-5054964",
+		"cell": "0171-9671248",
+		"id": {
+			"name": "",
+			"value": null
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/women/48.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+		},
+		"nat": "DE"
+	}, {
+		"gender": "male",
+		"name": {
+			"title": "Mr",
+			"first": "Iker",
+			"last": "Benitez"
+		},
+		"location": {
+			"street": {
+				"number": 6844,
+				"name": "Paseo de Zorrilla"
+			},
+			"city": "Gandía",
+			"state": "Castilla y León",
+			"country": "Spain",
+			"postcode": 93823,
+			"coordinates": {
+				"latitude": "76.7472",
+				"longitude": "54.8212"
+			},
+			"timezone": {
+				"offset": "0:00",
+				"description": "Western Europe Time, London, Lisbon, Casablanca"
+			}
+		},
+		"email": "iker.benitez@example.com",
+		"login": {
+			"uuid": "62fab247-d577-407a-b45e-c47ffb6ba740",
+			"username": "heavyfrog109",
+			"password": "nipple",
+			"salt": "WsB88RzT",
+			"md5": "079d3f286d67fa9fdf526ca41bd509c0",
+			"sha1": "bb6bdac082a74311b31bba64e101d468bdf86981",
+			"sha256": "b2bb52f8eaa962f756ffe5289cb6ca0785663b54e2ee107ec43835f900be5ab3"
+		},
+		"dob": {
+			"date": "1981-11-29T01:55:56.204Z",
+			"age": 40
+		},
+		"registered": {
+			"date": "2012-05-03T17:19:54.496Z",
+			"age": 9
+		},
+		"phone": "931-263-842",
+		"cell": "672-994-729",
+		"id": {
+			"name": "DNI",
+			"value": "40849178-H"
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/men/46.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+		},
+		"nat": "ES"
+	}, {
+		"gender": "female",
+		"name": {
+			"title": "Mrs",
+			"first": "Megan",
+			"last": "Ross"
+		},
+		"location": {
+			"street": {
+				"number": 9044,
+				"name": "Concession Road 6"
+			},
+			"city": "Chatham",
+			"state": "Nunavut",
+			"country": "Canada",
+			"postcode": "U4R 3L9",
+			"coordinates": {
+				"latitude": "33.9769",
+				"longitude": "28.0027"
+			},
+			"timezone": {
+				"offset": "-12:00",
+				"description": "Eniwetok, Kwajalein"
+			}
+		},
+		"email": "megan.ross@example.com",
+		"login": {
+			"uuid": "7614a6d6-4b3f-4e6c-8f61-d7e2cd428cc8",
+			"username": "silverpeacock685",
+			"password": "tyler",
+			"salt": "xBAPCjDy",
+			"md5": "460b2e56848105e1cd17d623475e7b33",
+			"sha1": "510878a7c4eeb48e8b6e0ab973b69f735446ca66",
+			"sha256": "1b80717fb9c008594c97f4b137435244f56d15e10a1980a8f47f0fe27e4a12c9"
+		},
+		"dob": {
+			"date": "1990-05-22T10:53:57.448Z",
+			"age": 31
+		},
+		"registered": {
+			"date": "2010-04-28T07:26:40.396Z",
+			"age": 11
+		},
+		"phone": "489-412-2149",
+		"cell": "875-349-3683",
+		"id": {
+			"name": "",
+			"value": null
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/women/25.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+		},
+		"nat": "CA"
+	}],
+	"info": {
+		"seed": "dc61e94673ef90df",
+		"results": 3,
+		"page": 1,
+		"version": "1.3"
+	}
+}
